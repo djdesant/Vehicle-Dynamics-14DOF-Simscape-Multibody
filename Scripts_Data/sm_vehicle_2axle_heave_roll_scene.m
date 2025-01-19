@@ -15,7 +15,6 @@ SceneData.Grid.numsquaresy  = 40; % m
 SceneData.Grid.linecolor    = [1 1 1]; % [RGB]
 SceneData.Grid.planecolor   = [0.8 0.8 0.8]; % [RGB]
 
-
 %% Road %%
 SceneData.Road.markings.segmentLength = 3;     % m
 SceneData.Road.markings.segmentWidth  = 0.15;  % m

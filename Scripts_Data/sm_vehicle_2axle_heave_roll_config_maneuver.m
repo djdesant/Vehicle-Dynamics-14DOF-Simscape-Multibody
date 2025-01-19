@@ -70,6 +70,11 @@ switch lower(tire_test)
         InitVehicle.Vehicle.py    = -2;  % m
         SceneData.Reference.pitch = -10 * pi/180;
         InitVehicle.Vehicle.pitch = -10 * pi/180;  % m
+    case 'external'
+        scene_type   = 'None';
+        driver_input = 'External';
+        InitVehicle.Vehicle.vx  = 0; %m/s
+        road_surface_type = 'External';
     otherwise
         error('Maneuver type not found')
 end
