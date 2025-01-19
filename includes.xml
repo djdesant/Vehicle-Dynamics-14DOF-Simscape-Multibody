@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+  <section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+    <language id="org.eclipse.cdt.core.assembly" name="Assembly Source File"/>
+    <language id="org.eclipse.cdt.core.gcc" name="C Source File">
+      <includepath>C:\Prj\GitHub\Vehicle-Dynamics-14DOF-Simscape-Multibody\work\sm_vehicle_2axle_heave_roll_ert_shrlib_rtw</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\simulink\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\mc\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pm\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pm_log\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pm_math\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\sm\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\sm_ssci\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_comp\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_core\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_ds\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_sli\include</includepath>
+      <includepath>C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_st\include</includepath>
+    </language>
+    <language name="Object File"/>
+  </section>
+</cdtprojectproperties>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325" moduleId="org.eclipse.cdt.core.settings" name="Load_DLL">
+				<externalSettings>
+					<externalSetting>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="includePath" name="/sm_vehicle_2axle_heave_roll_ert_shrlib_rtw"/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="libraryPath" name="/sm_vehicle_2axle_heave_roll_ert_shrlib_rtw/Load_DLL"/>
+						<entry flags="RESOLVED" kind="libraryFile" name="sm_vehicle_2axle_heave_roll_ert_shrlib_rtw" srcPrefixMapping="" srcRootPath=""/>
+					</externalSetting>
+				</externalSettings>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GNU_PE64" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactExtension="" artifactName="${ProjName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.sharedLib" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.sharedLib" description="Load shared library" errorParsers="org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GLDErrorParser;org.eclipse.cdt.core.GCCErrorParser" id="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325" name="Load_DLL" optionalBuildProperties="org.eclipse.cdt.docker.launcher.containerbuild.property.dockerdpath=,org.eclipse.cdt.docker.launcher.containerbuild.property.enablement=null,org.eclipse.cdt.docker.launcher.containerbuild.property.volumes=,org.eclipse.cdt.docker.launcher.containerbuild.property.connection=null,org.eclipse.cdt.docker.launcher.containerbuild.property.selectedvolumes=,org.eclipse.cdt.docker.launcher.containerbuild.property.image=null" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325.2008837255" name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.gnu.mingw.base.258072976" name="MinGW GCC" superClass="cdt.managedbuild.toolchain.gnu.mingw.base">
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.GNU_PE64" id="cdt.managedbuild.target.gnu.platform.mingw.base.911297340" name="Debug Platform" osList="win32" superClass="cdt.managedbuild.target.gnu.platform.mingw.base"/>
+							<builder buildPath="${workspace_loc:/sm_vehicle_2axle_heave_roll_ert_shrlib_rtw}/Load_DLL" id="org.eclipse.cdt.build.core.internal.builder.1512309158" keepEnvironmentInBuildfile="false" name="CDT Internal Builder" superClass="org.eclipse.cdt.build.core.internal.builder"/>
+							<tool id="cdt.managedbuild.tool.gnu.assembler.mingw.base.1114291218" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.mingw.base">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1642850100" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.archiver.mingw.base.1117438972" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.mingw.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.base.119173584" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.c.compiler.mingw.base.291063377" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.mingw.base">
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.compiler.option.include.paths.539362235" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Prj\GitHub\Vehicle-Dynamics-14DOF-Simscape-Multibody\work\sm_vehicle_2axle_heave_roll_ert_shrlib_rtw&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\simulink\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\rtw\c\src&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\rtw\c\src\ext_mode\common&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\rtw\c\ert&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\lang\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\mc\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pd\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pm\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pm_log\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pm_math\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\sm\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\sm_ssci\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_comp\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_core\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_ds\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_sli\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_st\include&quot;"/>
+								</option>
+								<option id="gnu.c.compiler.option.misc.other.1030317295" name="Other flags" superClass="gnu.c.compiler.option.misc.other" useByScannerDiscovery="false" value="-c -fmessage-length=0" valueType="string"/>
+								<option id="gnu.c.compiler.option.debugging.other.1926079727" name="Other debugging flags" superClass="gnu.c.compiler.option.debugging.other" useByScannerDiscovery="false" value="" valueType="string"/>
+								<option id="gnu.c.compiler.option.optimization.level.1014451973" name="Optimization Level" superClass="gnu.c.compiler.option.optimization.level" useByScannerDiscovery="false" value="gnu.c.optimization.level.optimize" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.dialect.std.2082037597" name="Language standard" superClass="gnu.c.compiler.option.dialect.std" useByScannerDiscovery="true" value="gnu.c.compiler.dialect.default" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.debugging.level.148183178" name="Debug Level" superClass="gnu.c.compiler.option.debugging.level" useByScannerDiscovery="false" value="gnu.c.debugging.level.max" valueType="enumerated"/>
+								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.978928318" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.linker.mingw.base.1585146204" name="MinGW C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.mingw.base">
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="true" id="gnu.c.link.option.libs.1972925686" name="Libraries (-l)" superClass="gnu.c.link.option.libs" valueType="libs"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.link.option.paths.415290803" name="Library search path (-L)" superClass="gnu.c.link.option.paths" valueType="libPaths">
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Load_DLL&quot;"/>
+								</option>
+								<option id="gnu.c.link.option.ldflags.1892334874" name="Linker flags" superClass="gnu.c.link.option.ldflags" value="" valueType="string"/>
+								<option id="gnu.c.link.option.shared.2018758599" name="Shared (-shared)" superClass="gnu.c.link.option.shared" value="false" valueType="boolean"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="true" id="gnu.c.link.option.userobjs.2143721712" name="Other objects" superClass="gnu.c.link.option.userobjs" valueType="userObjs"/>
+								<inputType id="cdt.managedbuild.tool.gnu.c.linker.input.1287419964" superClass="cdt.managedbuild.tool.gnu.c.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+								<outputType id="cdt.managedbuild.tool.gnu.c.linker.mingw.so.output.base.1720412713" outputPrefix="" superClass="cdt.managedbuild.tool.gnu.c.linker.mingw.so.output.base"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.mingw.base.1706111707" name="MinGW C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.mingw.base">
+								<option defaultValue="true" id="gnu.cpp.link.option.shared.1478060976" name="Shared (-shared)" superClass="gnu.cpp.link.option.shared" valueType="boolean"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="sm*|rt*" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325.1773610957">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325.1773610957" moduleId="org.eclipse.cdt.core.settings" name="Build_DLL">
+				<macros>
+					<stringMacro name="MINGW_ROOT" type="VALUE_TEXT" value="$(MINGW_HOME)\bin"/>
+				</macros>
+				<externalSettings>
+					<externalSetting>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="includePath" name="/sm_vehicle_2axle_heave_roll_ert_shrlib_rtw"/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="libraryPath" name="/sm_vehicle_2axle_heave_roll_ert_shrlib_rtw/Build_DLL"/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="libraryPath" name="/sm_vehicle_2axle_heave_roll_ert_shrlib_rtw"/>
+						<entry flags="RESOLVED" kind="libraryFile" name="sm_vehicle_2axle_heave_roll_ert_shrlib_rtw" srcPrefixMapping="" srcRootPath=""/>
+					</externalSetting>
+				</externalSettings>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GNU_PE64" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactExtension="dll" artifactName="${ProjName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.sharedLib" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.sharedLib" description="Build shared library" id="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325.1773610957" name="Build_DLL" optionalBuildProperties="org.eclipse.cdt.docker.launcher.containerbuild.property.dockerdpath=,org.eclipse.cdt.docker.launcher.containerbuild.property.selectedvolumes=,org.eclipse.cdt.docker.launcher.containerbuild.property.volumes=" parent="org.eclipse.cdt.build.core.emptycfg" prebuildStep="">
+					<folderInfo id="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325.1773610957." name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.gnu.mingw.base.473075892" name="MinGW GCC" nonInternalBuilderId="org.eclipse.linuxtools.cdt.autotools.core.toolchain.builder" superClass="cdt.managedbuild.toolchain.gnu.mingw.base">
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.GNU_PE64" id="cdt.managedbuild.target.gnu.platform.mingw.base.1428591018" name="Debug Platform" osList="win32" superClass="cdt.managedbuild.target.gnu.platform.mingw.base"/>
+							<builder buildPath="${workspace_loc:/sm_vehicle_2axle_heave_roll_ert_shrlib_rtw}/Build_DLL" id="org.eclipse.cdt.build.core.internal.builder.1901193438" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="CDT Internal Builder" superClass="org.eclipse.cdt.build.core.internal.builder"/>
+							<tool id="cdt.managedbuild.tool.gnu.assembler.mingw.base.1680703770" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.mingw.base">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.42536102" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.archiver.mingw.base.1543845537" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.mingw.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.base.1705751153" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.c.compiler.mingw.base.1813693877" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.mingw.base">
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.compiler.option.include.paths.480100232" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\simulink\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\mc\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pm\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pm_log\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\pm_math\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\sm\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\sm_ssci\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_comp\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_core\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_ds\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_sli\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Program Files\MATLAB\R2023b\extern\physmod\win64\ssc_st\include&quot;"/>
+								</option>
+								<option id="gnu.c.compiler.option.optimization.level.401679569" name="Optimization Level" superClass="gnu.c.compiler.option.optimization.level" useByScannerDiscovery="false" value="gnu.c.optimization.level.optimize" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.dialect.std.1058328632" name="Language standard" superClass="gnu.c.compiler.option.dialect.std" useByScannerDiscovery="true" value="gnu.c.compiler.dialect.default" valueType="enumerated"/>
+								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1229262937" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.linker.mingw.base.1100425182" name="MinGW C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.mingw.base">
+								<option id="gnu.c.link.option.shared.1641529857" name="Shared (-shared)" superClass="gnu.c.link.option.shared" value="false" valueType="boolean"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="true" id="gnu.c.link.option.paths.1030706192" name="Library search path (-L)" superClass="gnu.c.link.option.paths" valueType="libPaths"/>
+								<inputType id="cdt.managedbuild.tool.gnu.c.linker.input.201274469" superClass="cdt.managedbuild.tool.gnu.c.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+								<outputType id="cdt.managedbuild.tool.gnu.c.linker.mingw.so.output.base.1103054250" outputPrefix="" superClass="cdt.managedbuild.tool.gnu.c.linker.mingw.so.output.base"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.mingw.base.1247139994" name="MinGW C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.mingw.base">
+								<option defaultValue="true" id="gnu.cpp.link.option.shared.94138026" name="Shared (-shared)" superClass="gnu.cpp.link.option.shared" valueType="boolean"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="dll*" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="sm_vehicle_2axle_heave_roll_ert_shrlib_rtw.null.1937031510" name="sm_vehicle_2axle_heave_roll_ert_shrlib_rtw"/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Build_DLL"/>
+		<configuration configurationName="Load_DLL"/>
+		<configuration configurationName="Default">
+			<resource resourceType="PROJECT" workspacePath="/sm_vehicle_2axle_heave_roll_ert_shrlib_rtw"/>
+		</configuration>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325;cdt.managedbuild.toolchain.gnu.mingw.base.1231909325.2008837255;cdt.managedbuild.tool.gnu.c.compiler.mingw.base.291063377;cdt.managedbuild.tool.gnu.c.compiler.input.978928318">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.toolchain.gnu.mingw.base.1231909325.1773610957;cdt.managedbuild.toolchain.gnu.mingw.base.1231909325.1773610957.;cdt.managedbuild.tool.gnu.c.compiler.mingw.base.1813693877;cdt.managedbuild.tool.gnu.c.compiler.input.1229262937">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+</cproject>

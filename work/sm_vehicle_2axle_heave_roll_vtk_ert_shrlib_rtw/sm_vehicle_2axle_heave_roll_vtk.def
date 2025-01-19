@@ -1,0 +1,9 @@
+        EXPORTS
+    sm_vehicle_2axle_heave_roll_vtk_initialize
+            sm_vehicle_2axle_heave_roll_vtk_step
+        sm_vehicle_2axle_heave_roll_vtk_terminate
+
+
+                                InitVehicle
+
+

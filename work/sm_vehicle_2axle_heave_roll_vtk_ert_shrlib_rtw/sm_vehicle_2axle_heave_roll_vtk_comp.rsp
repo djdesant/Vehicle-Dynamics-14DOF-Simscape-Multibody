@@ -1,0 +1,20 @@
+-IC:/Prj/GitHub/Vehicle-Dynamics-14DOF-Simscape-Multibody/work
+-IC:/Prj/GitHub/Vehicle-Dynamics-14DOF-Simscape-Multibody/work/sm_vehicle_2axle_heave_roll_vtk_ert_shrlib_rtw
+-IC:/Program\ Files/MATLAB/R2023b/extern/include
+-IC:/Program\ Files/MATLAB/R2023b/simulink/include
+-IC:/Program\ Files/MATLAB/R2023b/rtw/c/src
+-IC:/Program\ Files/MATLAB/R2023b/rtw/c/src/ext_mode/common
+-IC:/Program\ Files/MATLAB/R2023b/rtw/c/ert
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/lang/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/mc/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/pd/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/pm/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/pm_log/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/pm_math/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/sm/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/sm_ssci/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/ssc_comp/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/ssc_core/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/ssc_ds/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/ssc_sli/include
+-IC:/Program\ Files/MATLAB/R2023b/extern/physmod/win64/ssc_st/include
