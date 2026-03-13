@@ -1,0 +1,3 @@
+[submodule "Simscape-Driveline"]
+	path = Simscape-Driveline
+	url = https://github.com/djdesant/Simscape-Driveline.git
