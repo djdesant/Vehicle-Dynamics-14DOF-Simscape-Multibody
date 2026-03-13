@@ -1,2 +1,6 @@
 # List of untracked files to ignore
 /Debug/
+
+*.slxc
+work/
+*.r20*
