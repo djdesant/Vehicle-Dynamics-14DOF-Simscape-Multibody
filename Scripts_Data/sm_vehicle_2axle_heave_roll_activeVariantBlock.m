@@ -1,4 +1,4 @@
-function blk = ssc_car_abs_activeVariantBlock(variant_sub_name)
+function blk = sm_vehicle_2axle_heave_roll_activeVariantBlock(variant_sub_name)
 % Code to return path to block which is the active variant.
 
 % Copyright 2022-2024 The MathWorks, Inc.
